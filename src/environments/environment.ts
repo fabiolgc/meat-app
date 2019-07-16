@@ -5,7 +5,7 @@
 
 export const environment = {
   production: false,
-  api: 'https://localhost/api/v1',
-  auth: 'https://localhost/oauth2',
-  client_id: '640KMo9NttQgueyAx_ApPtY0Yab2mkIJCVZAq0ayj-A'
+  api: 'https://localhost:8243/api/v1',
+  auth: 'https://localhost:9443/oauth2/',
+  client_id: '6qfbsCxfd656zRjmwWm7teMdojka'
 };
